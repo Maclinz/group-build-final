@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d1817d6f.chunk.js",
+    "main.js.map": "/static/js/main.d1817d6f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc45c5e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc45c5e8.js.map",
+    "static/js/2.fdb8c755.chunk.js": "/static/js/2.fdb8c755.chunk.js",
+    "static/js/2.fdb8c755.chunk.js.map": "/static/js/2.fdb8c755.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.fdb8c755.chunk.js.LICENSE.txt": "/static/js/2.fdb8c755.chunk.js.LICENSE.txt",
+    "static/media/climate.5eb89270.png": "/static/media/climate.5eb89270.png",
+    "static/media/climate_change.621b757d.png": "/static/media/climate_change.621b757d.png",
+    "static/media/discussion.54a7efce.svg": "/static/media/discussion.54a7efce.svg",
+    "static/media/greenhouse.af38178c.png": "/static/media/greenhouse.af38178c.png",
+    "static/media/greenhouse_effect.66203d7a.jpg": "/static/media/greenhouse_effect.66203d7a.jpg",
+    "static/media/learn.301a44a2.svg": "/static/media/learn.301a44a2.svg",
+    "static/media/logo2.4117025e.svg": "/static/media/logo2.4117025e.svg",
+    "static/media/logo3.74394913.svg": "/static/media/logo3.74394913.svg",
+    "static/media/resources.afe5630b.svg": "/static/media/resources.afe5630b.svg",
+    "static/media/sphere_energy.2103c001.png": "/static/media/sphere_energy.2103c001.png",
+    "static/media/star.b6d8e19c.svg": "/static/media/star.b6d8e19c.svg",
+    "static/media/videos.850679ad.svg": "/static/media/videos.850679ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc45c5e8.js",
+    "static/js/2.fdb8c755.chunk.js",
+    "static/js/main.d1817d6f.chunk.js"
+  ]
+}
